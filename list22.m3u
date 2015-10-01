@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1,Bein USA esp
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_spa_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_spa_4&vw;=650&vh;=450
+
+#EXTINF:-1,Bein USA
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=1 timeout=13 pageurl=http://sportsinfonet.info/
+
+#EXTINF:-1,[COLOR purple]--Bein Sports- America--[/COLOR]
+http://www.youtube.com/user/vdubt25
+
+#EXTINF:64,BeIN SPORTS 1 HD FR
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sports_1_hd_fr
+
+#EXTINF:65,BeIN SPORTS 2 HD FR
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sports_2_hd_fr
+
+
+#EXTINF:-1,[COLOR purple]--Bein Sports--[/COLOR]
+http://www.youtube.com/user/vdubt25
+
+
+#EXTINF:67,Bein Sport 1
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_1
+
+#EXTINF:69,Bein Sport 2
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_2
+
+#EXTINF:71,Bein Sport 3
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_3
+
+#EXTINF:73,Bein Sport 4
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_4
+
+#EXTINF:75,Bein Sport 5
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_5
+
+#EXTINF:77,Bein Sport 6
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_6
+
+#EXTINF:79,Bein Sport 7
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_7
+
+#EXTINF:81,Bein Sport 8
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_8
+
+#EXTINF:83,Bein Sport 9
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_9
+
+#EXTINF:85,Bein Sport 10
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/bein_sport_10
+
+
+
+#EXTINF:-1,[COLOR red]-- ALL SPORTS --[/COLOR]  
+http://www.youtube.com/user/vdubt25
+
+#EXTINF:85,EuroSport
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/eurosport
+
+#EXTINF:85,Canal Plus Sport
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/canal_plus_sport
+
+#EXTINF:73,Sky Bundesliga 1
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/sky_bundesliga_1
+
+#EXTINF:75,Sky sport 1 
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/sky_sport_1
+
+#EXTINF:74,Sky Sport 2 
+rtmp://5.196.84.28:1935/live?idu=lazordy_76032503280/sky_sport_2
+
+#EXTINF:-1,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 (uk)
+http://lihattv.toh.info/jhos/beib1.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 (uk)
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 (uk)
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 (uk)
+http://lihattv.toh.info/jhos/beib2.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 (uk)
+http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", Albania - SuperSports2
+http://81.7.13.162/hls/ss2/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", Albania - SuperSports3
+http://81.7.13.162/hls/ss3/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", Albania - SuperSports4
+http://81.7.13.162/hls/ss4/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", Sports TV 1
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", Sports TV 2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", Sports TV 3 
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="All Sports", NBC Sports
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8?sd=10&rebase=on
+
+#EXTINF:75, Idman TV
+http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:75, FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:75, FSC
