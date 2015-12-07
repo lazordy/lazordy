@@ -23,16 +23,10 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/alarabiya
 #EXTINF:-1,Alarabiya - link2 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/alarabiya
 
-#EXTINF:-1,Alarabiya - link3 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/alarabiya
-
 #EXTINF:-1,Al-Arabiya Al-Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
 #EXTINF:-1,Al-Arabiya Al-Hadath - link2 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_arabia_hadath
-
-#EXTINF:-1,Al-Arabiya Al-Hadath - link3 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_arabia_hadath
 
 #EXTINF:-1,Russia Alyaum
@@ -70,19 +64,11 @@ http://www.youtube.com/user/vdubt25
 #EXTINF:-1,Al-Sharqiya
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_sharqiya
 
-#EXTINF:-1,Al-Sharqiya link2
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_sharqiya
-
 #EXTINF:-1,Al-Sharqiya News
 rtmp://ns8.indexforce.com/alsharqiyalive playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf pageUrl=http://www.alsharqiyatv.com/
 
-
 #EXTINF:10,Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-
-#EXTINF:10,Al Baghdadia 2 **
-http://216.66.42.86:7777/AlBaghdadia_HD.m3u8?user=13629&session=7becce517994337ae3b6eb9cf89a5a16f26d43457b3e6a4094405f72be8be4b9a299017ce29bf1aa
-
 
 #EXTINF:-1,Al-Taghier
 http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
@@ -93,19 +79,16 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_rasheed
 #EXTINF:-1,Al-Salam
 http://streamer1.hamuraabi.com:1935/salam/live/playlist.m3u8
 
-#EXTINF:-1,Al-Babeleyia
+#EXTINF:-1,Al-Babeleyia ***
 http://38.99.146.44:7777/AlBabeleyia.m3u8
 
 #EXTINF:-1,Al-Gharbiya
 http://46.165.208.230:1935/samarra/mystream/gmswf.m3u8
 
-#EXTINF:-1,Baghdad
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/baghdad
-
 #EXTINF:-1,Houna Baghdad
 http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 
-#EXTINF:-1,Al-Rafidain
+#EXTINF:-1,Al-Rafidain ***
 http://38.99.146.44:7777/AlRafidain.m3u8
 
 #EXTINF:-1,Dijlah**
