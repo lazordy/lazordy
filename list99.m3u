@@ -91,7 +91,7 @@ http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 #EXTINF:-1,Al-Rafidain ***
 http://38.99.146.44:7777/AlRafidain.m3u8
 
-#EXTINF:-1,Dijlah**
+#EXTINF:-1,Dijlah ***
 http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8
 
 #EXTINF:-1,Al-Hurra
@@ -109,105 +109,68 @@ http://www.youtube.com/user/vdubt25
 #EXTINF:-1,mbc 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_1
 
-#EXTINF:-1,mbc - Link2
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_1
-
 #EXTINF:-1,mbc2
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_2
-
-#EXTINF:-1,mbc2 - Link2
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_2
 
 #EXTINF:-1,mbc3
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_3
 
-#EXTINF:-1,mbc3 - link2 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_3
-
 #EXTINF:-1,mbc4 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_4
-
-#EXTINF:-1,mbc4 - Link2
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_4
 
 #EXTINF:-1,mbc Action 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_action
 
-#EXTINF:-1,mbc Action - Link2 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_action
-
 #EXTINF:-1,mbc Bollywood
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_bollywood
-
-#EXTINF:-1,mbc Bollywood - Link2
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_bollywood
 
 #EXTINF:-1,mbc MAX 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_max
 
-#EXTINF:-1,mbc MAX - Link2
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_max
-
 #EXTINF:-1,mbc Drama
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_drama
-
-#EXTINF:-1,mbc Drama - Link2
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_drama
 
 #EXTINF:-1,mbc Misr
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_masr
 
-#EXTINF:-1,mbc Misr - link2 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mbc_masr 
-
-#EXTINF:-1,mbc MisrPlus2*
+#EXTINF:-1,mbc MisrPlus2 ***
 http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
 
 #EXTINF:-1,Fox Movies
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/fox_movies
 
-#EXTINF:-1,Fox Movies - link2 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/fox_movies
-
 #EXTINF:-1,Fox
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/fox
 
-#EXTINF:-1,Fox - link2
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/fox
-
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", FX Arabia**
+#EXTINF:-1, FX Arabia ***
 http://38.99.146.158:7777/Fox_HD.m3u8
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic",Rotana Aflam
+#EXTINF:-1,Rotana Aflam
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_aflam
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", Rotana Classic
+#EXTINF:-1, Rotana Classic
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_classic
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", Rotana Clip
+#EXTINF:-1, Rotana Clip
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_clip
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", Rotana Khaligi
+#EXTINF:-1, Rotana Khaligi
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_khaligi
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", Rotana Masriya
+#EXTINF:-1, Rotana Masriya
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_masriya
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", Rotana Music
+#EXTINF:-1, Rotana Music
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_music
 
-#EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", Rotana cinema
+#EXTINF:-1, Rotana cinema
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_cinema
 
 #EXTINF:-1,[COLOR pink]---------  Arabic Misc.  ---------[/COLOR]
 http://www.youtube.com/user/vdubt25
 
-
 #EXTINF:-1,Dubai
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/dubai
-
-#EXTINF:-1,Dubai Link2
-http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls1.smil/chunklist_b516323.m3u8
 
 #EXTINF:-1,Dubai-One 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/dubai_one
@@ -248,10 +211,10 @@ http://38.99.146.44:7777/AlwatanPlus.m3u8
 #EXTINF:-1,Al-Watan Ghanawi
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
 
-#EXTINF:-1,Alrai**
+#EXTINF:-1,Alrai ***
 http://38.99.146.44:7777/Alrai.m3u8 
 
-#EXTINF:-1,KTV ARABE**
+#EXTINF:-1,KTV ARABE ***
 http://38.99.146.44:7777/KTVAlArabi.m3u8
 
 #EXTINF:-1,KTV Ethraa
@@ -260,7 +223,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
 #EXTINF:-1,KTV 2
 http://38.99.146.44:7777/KTV2Kuwait.m3u8
 
-#EXTINF:-1,Kuwait**
+#EXTINF:-1,Kuwait ***
 http://38.99.146.44:7777/Kuwait.m3u8
 
 #EXTINF:-1,KTV PLUS  
@@ -296,13 +259,10 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/cairo_drama
 #EXTINF:-1,Al-Hayat 
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/alhayat
 
-#EXTINF:-1,Al-Hayat link2
-http://iptv1.medias-live.com/hls/alhayat_1.m3u8?c=alhayat_1&e=1434601588&st=k-ngbNqTGz5Gmaq_IYGgzw
-
-#EXTINF:-1,Al-Hayat 2**
+#EXTINF:-1,Al-Hayat 2 ***
 http://38.99.146.158:7777/Alhayat2_HD.m3u8
 
-#EXTINF:-1,Al-Hayat Drama
+#EXTINF:-1,Al-Hayat Drama ***
 rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_Alhayetdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ 
 
 #EXTINF:-1,Al-Hayat Cinema
@@ -311,16 +271,13 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_hayat_cinema
 #EXTINF:-1,Al-Qahera w Elnas
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_kahera_wal_nas
 
-#EXTINF:-1,Al-Qahera w Elnas 2 / 2**
-rtmp://188.247.93.26/live/alkahra.stream_360p timeout=10
-
 #EXTINF:-1,ONTV
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/on_tv
 
 #EXTINF:-1,Mehwar TV1
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/ live=1 timeout=20
 
-#EXTINF:-1,Mehwar Drama / plus2**
+#EXTINF:-1,Mehwar Drama / plus2 ***
 rtmp://livestreaming4.onlinehorizons.net/MehwarTVDrama playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTVDrama/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTVDrama/ live=1 timeout=20
 
 #EXTINF:-1,Mehwar2
@@ -332,19 +289,19 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/dream_1
 #EXTINF:-1,Dream 2
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/dream_2
 
-#EXTINF:37,Alhewar**
+#EXTINF:37,Alhewar ***
 http://38.99.146.158:7777/AlHiwar_HD.m3u8
 
 #EXTINF:-1,Lbc Europe
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/lbc_europe
 
-#EXTINF:-1,Lbc International**
+#EXTINF:-1,Lbc International ***
 rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live
 
 #EXTINF:-1,Future TV
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/future
 
-#EXTINF:-1,TeleLiban**
+#EXTINF:-1,TeleLiban ***
 http://38.99.146.158:7777/TeleLiban_HD.m3u8
 
 #EXTINF:-1,OTV Lebanon
@@ -419,7 +376,7 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/al_haneen_music
 #EXTINF:-1,MTV Arabia
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/mtv
 
-#EXTINF:-1,AAA Music**
+#EXTINF:-1,AAA Music ***
 http://38.99.146.158:7777/AAAMusic_HD.m3u8
 
 #EXTINF:-1,Arabica Music
@@ -428,7 +385,7 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/arabica_tv
 #EXTINF:-1,Wanasah
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/wanasah
 
-#EXTINF:-1,MusicPlus**
+#EXTINF:-1,MusicPlus ***
 http://38.99.146.158:7777/MusicPlus_HD.m3u8
 
 #EXTINF:-1,Aghanina
