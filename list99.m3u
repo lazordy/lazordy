@@ -3,6 +3,37 @@
 #EXTINF:-1, السلطانة كوسم 1 
 rtmp://vod205.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-1.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=95562
 
+#EXTINF:-1, السلطانة كوسم 2
+rtmp://vod206.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-2.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=95655
+
+#EXTINF:-1, السلطانة كوسم 3
+rtmp://vod204.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-3.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=95723
+
+#EXTINF:-1, السلطانة كوسم 4
+http://flv2.alarab.com:8080//flv/93656.flv
+
+#EXTINF:-1, السلطانة كوسم 5
+rtmp://vod207.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-5.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=95848
+
+#EXTINF:-1, السلطانة كوسم 6
+http://flv2.alarab.com:8080//flv/94056.flv
+
+#EXTINF:-1, السلطانة كوسم 7
+rtmp://vod203.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-7.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=95969
+
+#EXTINF:-1, السلطانة كوسم 8
+rtmp://vod207.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-8.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=96099
+
+#EXTINF:-1, السلطانة كوسم 9
+rtmp://vod203.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-9.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=96170
+
+#EXTINF:-1, السلطانة كوسم 10
+rtmp://vod205.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-10.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=96215
+
+#EXTINF:-1, السلطانة كوسم 11
+http://flv2.alarab.com:8080//flv/95172.flv
+
+
 #EXTINF:-1,[COLOR red]---------  NEWS  ---------[/COLOR]  
 http://www.youtube.com/user/vdubt25
 
