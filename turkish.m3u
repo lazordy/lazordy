@@ -1,6 +1,48 @@
 #EXTM3U
 
-#EXTINF:10,مسلسل السلطانة كوسم
+#EXTINF:10,--------العشق المر--------
+http://www.youtube.com/user/vdubt25
+
+#EXTINF:10,العشق المر 1
+http://flv2.alarab.com:8080//flv/94228.flv
+
+#EXTINF:10, العشق المر 2
+http://flv2.alarab.com:8080//flv/94419.flv
+
+#EXTINF:10,العشق المر 3
+http://flv2.alarab.com:8080//flv/94571.flv
+
+#EXTINF:10,العشق المر 4
+http://flv2.alarab.com:8080//flv/94651.flv
+
+#EXTINF:10,العشق المر 5
+http://flv2.alarab.com:8080//flv/94842.flv
+
+#EXTINF:10,العشق المر 6
+http://flv2.alarab.com:8080//flv/95036.flv
+
+#EXTINF:10,العشق المر 7
+http://flv2.alarab.com:8080//flv/95340.flv
+
+#EXTINF:10,العشق المر 8
+http://flv2.alarab.com:8080//flv/95551.flv
+
+#EXTINF:10,العشق المر 9
+
+
+#EXTINF:10,العشق المر 10
+
+
+#EXTINF:10,العشق المر 11
+
+
+#EXTINF:10,العشق المر 12
+
+
+#EXTINF:10,العشق المر 13
+
+
+#EXTINF:10,--------السلطانة كوسم ------
 http://www.youtube.com/user/vdubt25
 
 #EXTINF:-1, السلطانة كوسم 1 
@@ -36,42 +78,4 @@ rtmp://vod205.sonara.net/vod/media playpath=mp4:/hd3/soltanhkoseeem/kosem-10.mp4
 #EXTINF:-1, السلطانة كوسم 11
 http://flv2.alarab.com:8080//flv/95172.flv
 
-#EXTINF:10,تذكر يا قلبي 1
-http://flv2.alarab.com:8080//flv/92193.flv
-
-#EXTINF:10,تذكر يا قلبي 2
-http://flv2.alarab.com:8080//flv/92295.flv
-
-#EXTINF:10,تذكر يا قلبي 3
-http://flv2.alarab.com:8080//flv/92546.flv
-
-#EXTINF:10,تذكر يا قلبي 4
-http://flv2.alarab.com:8080//flv/92936.flv
-
-#EXTINF:10,تذكر يا قلبي 5
-http://flv2.alarab.com:8080//flv/93199.flv
-
-#EXTINF:10,تذكر يا قلبي 6
-http://flv2.alarab.com:8080//flv/93508.flv
-
-#EXTINF:10,تذكر يا قلبي 7
-http://flv2.alarab.com:8080//flv/93648.flv
-
-#EXTINF:10,تذكر يا قلبي 8
-http://flv2.alarab.com:8080//flv/93841.flv
-
-#EXTINF:10,تذكر يا قلبي 9
-http://flv2.alarab.com:8080//flv/94278.flv
-
-#EXTINF:10,تذكر يا قلبي 10
-rtmp://vod207.sonara.net/vod/media playpath=mp4:/hd3/tdkaryaqlbe/tdk10.mp4 swfUrl=http://www.sonara.net/mediaplayera/player.swf pageUrl=http://www.sonara.net/video_player_new.php?ID=95980
-
-#EXTINF:10,تذكر يا قلبي 11
-http://flv2.alarab.com:8080//flv/94422.flv
-
-#EXTINF:10,تذكر يا قلبي 12
-http://flv2.alarab.com:8080//flv/94564.flv
-
-#EXTINF:10,تذكر يا قلبي 13
-http://flv2.alarab.com:8080//flv/94642.flv
 
