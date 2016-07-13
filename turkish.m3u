@@ -26,12 +26,11 @@ http://vod-b.nl.panet.co.il/vod/129/129486/129486.mp4?md5=POTu3QlftYoohWMCMHXJow
 http://vod-b.nl.panet.co.il/vod/129/129487/129487.mp4?md5=nbiPfjwYQCUen34NI4UDtw&expires=1468307382
 #EXTINF:10,10
 http://vod-b.il.panet.co.il/vod/130/130420/130420.mp4?md5=uEDE1oSKa6ofIW-bB94gsA&expires=1468389655
+#EXTINF:10,11-1
+http://vod-b.il.panet.co.il/vod/131/131000/131000.mp4?md5=YH9QQ0DbIHryP930DQNJAQ&expires=1468474289
+#EXTINF:-1, 11-2
+http://vod-b.il.panet.co.il/vod/131/131008/131008.mp4?md5=lNphynfoujUc00qbdZk8zw&expires=1468474387
 
-
-#EXTINF:10,12-2
-http://vod-b.il.panet.co.il/vod/118/118686/118686.mp4?md5=KlCJgA3mSAExrYzeQvsDBw&expires=1466669904
-#EXTINF:-1, 13
-http://vod-b.il.panet.co.il/vod/119/119303/119303.mp4?md5=lxyn3QLBL6uBVASRdFDl2w&expires=1466669974
 #EXTINF:-1, 14-1
 http://vod-b.il.panet.co.il/vod/119/119634/119634.mp4?md5=bdgvDoU7_eJ_CJEYzkb4Ow&expires=1466748194
 #EXTINF:-1,14-2
