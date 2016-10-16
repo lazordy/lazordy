@@ -1,17 +1,14 @@
 #EXTM3U
+#EXTINF:1,1
+rtmp://62.90.177.116:80/vod playpath=mp4:12/11/121160.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=121160&server=116&width=728&height=408.99
+#EXTINF:2,2
+rtmp://62.90.177.114:80/vod<playpath>mp4:12/15/121521.mp4 <swfUrl>http://vjs.zencdn.net/swf/5.0.1/video-js.swf <pageUrl>http://nadstream.shahidlive.com/?ID=121521&server=114&width=728&height=408.99
 
-#EXTINF:10,--------عشق ودموع--------
-http://www.youtube.com/user/vdubt25
-#EXTINF:-1,40
-http://vod-a.nl.panet.co.il/vod/235/235927/235927.mp4?md5=vsdAKo2ftWy9yIynhOgPVQ&expires=1476499767
+#EXTINF:3,3
+rtmp://62.90.177.116:80/vod<playpath>mp4:12/17/121716.mp4 <swfUrl>http://vjs.zencdn.net/swf/5.0.1/video-js.swf <pageUrl>http://nadstream.shahidlive.com/?ID=121716&server=116&width=728&height=408.99
 
-
-
-
-
-
-
-
+#EXTINF:4,4
+rtmp://62.90.177.112:80/vod<playpath>mp4:12/19/121958.mp4 <swfUrl>http://vjs.zencdn.net/swf/5.0.1/video-js.swf <pageUrl>http://nadstream.shahidlive.com/?ID=121958&server=112&width=728&height=408.99
 
 
 
