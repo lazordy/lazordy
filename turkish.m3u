@@ -9,6 +9,21 @@ rtmp://62.90.177.116:80/vod playpath=mp4:12/17/121716.mp4 swfUrl=http://vjs.zenc
 rtmp://62.90.177.115:80/vod playpath=mp4:12/19/121958.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=ttp://nadstream.shahidlive.com/?ID=121958&server=115&width=728&height=408.99
 
 
+#EXTINF:4,طائر الحب1
+rtmp://62.90.177.115:80/vod playpath=mp4:11/26/112626.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=112626&server=115&width=728&height=408.99
+
+#EXTINF:4,طائر الحب2
+rtmp://62.90.177.112:80/vod playpath=mp4:11/35/113594.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=113594&server=112&width=728&height=408.99
+#EXTINF:4,طائر الحب3
+rtmp://62.90.177.112:80/vod playpath=mp4:11/36/113690.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=113690&server=112&width=728&height=408.99
+#EXTINF:4,طائر الحب4
+rtmp://62.90.177.114:80/vod playpath=mp4:11/37/113780.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=113780&server=114&width=728&height=408.99
+
+#EXTINF:4,طائر الحب5
+rtmp://62.90.177.115:80/vod playpath=mp4:11/38/113817.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=113817&server=115&width=728&height=408.99
+
+#EXTINF:4,طائر الحب6
+rtmp://62.90.177.115:80/vod playpath=mp4:11/39/113941.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=113941&server=115&width=728&height=408.99
 
 
 
