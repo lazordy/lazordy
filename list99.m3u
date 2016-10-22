@@ -15,6 +15,9 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeer
 #EXTINF:-1,Al-Jazeera Misr
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/aljazeera_misr
 
+#EXTINF:-1,نينوى الغد
+rtmp://esite-iq.com/live playpath=hussam swfUrl=http://esite-iq.com/hussam-test/player/flowplayer-3.2.18.swf pageUrl=http://esite-iq.com/hussam-test/index.html
+
 #EXTINF:-1,Alarabiya
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/alarabiya
 
