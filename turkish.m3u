@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:1,9
-http://cdn1.bokracdn.com/12/28/122858.mp4
-
-#EXTINF:4,80
-rtmp://62.90.177.112:80/vod playpath=mp4:11/92/119220.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119220&server=112&width=729&height=409.55
-#EXTINF:4,81
-rtmp://62.90.177.113:80/vod playpath=mp4:11/92/119218.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119218&server=113&width=729&height=409.55
-#EXTINF:4,82
-rtmp://62.90.177.115:80/vod playpath=mp4:11/92/119297.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119297&server=115&width=729&height=409.55
-#EXTINF:4,83
-rtmp://62.90.177.113:80/vod playpath=mp4:11/92/119298.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119298&server=113&width=729&height=409.55
-#EXTINF:4,84
-rtmp://62.90.177.113:80/vod playpath=mp4:11/93/119367.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119367&server=113&width=729&height=409.55
-#EXTINF:4,85
-rtmp://62.90.177.112:80/vod playpath=mp4:11/93/119368.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119368&server=112&width=729&height=409.55
-#EXTINF:4,86
-rtmp://62.90.177.114:80/vod playpath=mp4:11/93/119369.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119369&server=114&width=729&height=409.55
-#EXTINF:4,88
-rtmp://62.90.177.113:80/vod playpath=mp4:11/94/119463.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://nadstream.shahidlive.com/?ID=119463&server=113&width=729&height=409.55
-
+http://cdn1.bokracdn.com/12/30/123011.mp4
 
 
 
