@@ -1,27 +1,8 @@
 #EXTM3U
-#EXTINF:1,10
-http://cdn1.bokracdn.com/12/30/123011.mp4
+#EXTINF:1,11
+http://cdn1.bokracdn.com/12/32/123206.mp4
 
 
-
-#EXTINF:4,1
-rtmp://62.90.177.113:80/vod playpath=mp4:10/62/106267.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106267&server=113&width=729&height=409.55
-#EXTINF:4,2
-rtmp://62.90.177.115:80/vod playpath=mp4:10/63/106325.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106325&server=115&width=729&height=409.55
-#EXTINF:4,3
-rtmp://62.90.177.112:80/vod playpath=mp4:10/63/106354.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106354&server=112&width=729&height=409.55
-#EXTINF:4,4
-rtmp://62.90.177.114:80/vod playpath=mp4:10/63/106395.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106395&server=114&width=729&height=409.55
-#EXTINF:4,5
-rtmp://62.90.177.114:80/vod playpath=mp4:10/65/106537.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106537&server=114&width=729&height=409.55
-#EXTINF:4,6
-rtmp://62.90.177.113:80/vod playpath=mp4:10/65/106528.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106528&server=113&width=729&height=409.55
-#EXTINF:4,7
-rtmp://62.90.177.115:80/vod playpath=mp4:10/65/106577.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106577&server=115&width=729&height=409.55
-#EXTINF:4,8
-rtmp://62.90.177.114:80/vod playpath=mp4:10/66/106623.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106623&server=114&width=729&height=409.55
-#EXTINF:4,9
-rtmp://62.90.177.114:80/vod playpath=mp4:10/66/106658.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106658&server=114&width=729&height=409.55
 #EXTINF:4,10
 rtmp://62.90.177.112:80/vod playpath=mp4:10/67/106747.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=106747&server=112&width=729&height=409.55
 #EXTINF:4,11
