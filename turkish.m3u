@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,11
-http://cdn1.bokracdn.com/12/32/123206.mp4
+#EXTINF:1,12
+rtmp://62.90.177.114:80/vod playpath=mp4:12/34/123440.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=123440&server=114&width=729&height=409.55
+
 
 
 #EXTINF:4,21
