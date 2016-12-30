@@ -1,50 +1,35 @@
 #EXTM3U
 #EXTINF:4,13
 http://cdn1.bokracdn.com/12/38/123810.mp4
-#EXTINF:4,61
-rtmp://62.90.177.113:80/vod playpath=mp4:10/93/109373.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109373&server=113&width=729&height=409.55
+#EXTINF:4,1
+http://cdn1.bokracdn.com/12/29/122945.mp4
 
-#EXTINF:4,62
-rtmp://62.90.177.112:80/vod playpath=mp4:10/94/109412.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109412&server=112&width=729&height=409.55
+#EXTINF:4,2
+http://cdn1.bokracdn.com/12/29/122946.mp4
 
-#EXTINF:4,63
-rtmp://62.90.177.115:80/vod playpath=mp4:10/94/109482.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109482&server=115&width=729&height=409.55
+#EXTINF:4,3
+http://cdn1.bokracdn.com/12/29/122962.mp4
 
-#EXTINF:4,64
-rtmp://62.90.177.114:80/vod playpath=mp4:10/95/109523.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109523&server=114&width=729&height=409.55
+#EXTINF:4,4
+http://cdn1.bokracdn.com/12/30/123030.mp4
 
-#EXTINF:4,65
-rtmp://62.90.177.115:80/vod playpath=mp4:10/96/109679.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109679&server=115&width=729&height=409.55
+#EXTINF:4,5
+http://cdn1.bokracdn.com/12/30/123054.mp4
 
-#EXTINF:4,66
-rtmp://62.90.177.115:80/vod playpath=mp4:10/96/109676.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109676&server=115&width=729&height=409.55
+#EXTINF:4,6
+http://cdn1.bokracdn.com/12/31/123101.mp4
 
-#EXTINF:4,67
-rtmp://62.90.177.112:80/vod playpath=mp4:10/97/109721.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109721&server=112&width=729&height=409.55
+#EXTINF:4,7
+http://cdn1.bokracdn.com/12/31/123105.mp4
 
-#EXTINF:4,68
-rtmp://62.90.177.114:80/vod playpath=mp4:10/97/109769.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109769&server=114&width=729&height=409.55
+#EXTINF:4,8
+http://cdn1.bokracdn.com/12/31/123127.mp4
 
-#EXTINF:4,69
-rtmp://62.90.177.112:80/vod playpath=mp4:10/98/109838.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109838&server=112&width=729&height=409.55
+#EXTINF:4,9
+http://cdn1.bokracdn.com/12/32/123211.mp4
 
-#EXTINF:4,70
-rtmp://62.90.177.114:80/vod playpath=mp4:10/99/109996.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109996&server=114&width=729&height=409.55
-
-#EXTINF:4,71
-rtmp://62.90.177.116:80/vod playpath=mp4:10/99/109993.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=109993&server=116&width=729&height=409.55
-
-#EXTINF:4,72
-rtmp://62.90.177.112:80/vod playpath=mp4:11/00/110057.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=110057&server=112&width=729&height=409.55
-
-#EXTINF:4,73
-rtmp://62.90.177.115:80/vod playpath=mp4:11/00/110092.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=110092&server=115&width=729&height=409.55
-
-#EXTINF:4,74
-rtmp://62.90.177.115:80/vod playpath=mp4:11/01/110196.mp4 swfUrl=http://vjs.zencdn.net/swf/5.0.1/video-js.swf pageUrl=http://player.bokracdn.com/nadstream/?ID=110196&server=115&width=729&height=409.55
-
-
-
+#EXTINF:4,10
+http://cdn1.bokracdn.com/12/32/123225.mp4
 
 
 
