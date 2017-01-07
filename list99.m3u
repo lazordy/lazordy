@@ -3,8 +3,9 @@
 #EXTINF:-1,[COLOR red]---------  NEWS  ---------[/COLOR]  
 http://www.youtube.com/user/vdubt25
 
-#EXTINF:-1,Aljazeera 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/aljazeera
+#EXTINF:-1,Aljazeera english
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
 
 #EXTINF:-1,Al-Jazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1200kStream.m3u8
@@ -171,16 +172,31 @@ rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/rotana_cinema
 http://www.youtube.com/user/vdubt25
 
 #EXTINF:-1,Dubai
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/dubai
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1,Dubai-One 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/dubai_one
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1,Noor Dubai 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/noor_dubai
+http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1,Sama Dubai 
-rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/sama_dubai
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b190000.m3u8
+
+#EXTINF:-1,Dubai Zaman 
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,Dubai Sport 3 
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,Dubai Racing 1 
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,Dubai Racing 2 
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,alaan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_b800000_t64NTc2cA==.m3u8
 
 #EXTINF:-1,National Geo AD
 rtmp://www.teledunet.com:1935/live?idu=lazordy_76032503280/nat_geo_ad
