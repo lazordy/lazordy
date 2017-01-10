@@ -19,6 +19,8 @@ rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/sharqia_news
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/france24_arabic
 #EXTINF:10" group-title:News,BBC arabic
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bbc_arabic
+#EXTINF:253,DW Arabic
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:11" group-title:News,Russia Alyaum
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/russia_alyaum
 #EXTINF:12" group-title:News,CNN
@@ -283,6 +285,8 @@ rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/otv_lebanon
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_ahd
 #EXTINF:137" group-title:Iraq,Hona Baghdad
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/hona_baghdad
+#EXTINF:254,Al-Taghier
+http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
 #EXTINF:138" group-title:Iraq,Al Iraqiya
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_iraqiya
 #EXTINF:139" group-title:Iraq,Al ghadeer
@@ -297,6 +301,8 @@ rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alanwar
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/iraqia_sport
 #EXTINF:144" group-title:Iraq,Al Mawsleya
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_mawsleya
+#EXTINF:252",Nainawa Al Ghad
+rtmp://esite-iq.com/live playpath=hussam swfUrl=http://esite-iq.com/hussam-test/player/flowplayer-3.2.18.swf pageUrl=http://esite-iq.com/hussam-test/index.html
 #EXTINF:145" group-title:Iraq,Dijlah Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dijlah_tv
 #EXTINF:146" group-title:Iraq,Al Anbar
@@ -321,6 +327,9 @@ rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_rasheed
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kurdsat
 #EXTINF:156" group-title:Iraq,Kurdsat News
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kurdsat_news
+#EXTINF:255" group-title:Iraq,Vin TV
+http://95.170.220.246:1213/hls/m3u8/VinHD.m3u8
+
 
 #EXTINF:157" group-title:Leavant,Palestine
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/palestine
@@ -383,6 +392,11 @@ rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/oman
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bahrain
 #EXTINF:186" group-title:Gulf,Kuwait
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kuwait
+#EXTINF:256" group-title:Gulf,Kuwait Ethraa
+rtmp://livestreaming.itworkscdn.net/ktvethraalive/ playpath=kethraa_480p swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=kw_ethra&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:257" group-title:Gulf,Kuwait Alarabi
+rtmp://livestreaming.itworkscdn.net/ktvarabelive/ playpath=karabe_480p swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=kw_arabi&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+
 
 #EXTINF:187" group-title:Tunisia,Tunisia national 1
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tunisia_national_1
