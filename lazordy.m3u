@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:1",Aljazeera #IMG:http://diyerclub.com/tv/20130826190303_channels.png #GRP:News
+#EXTINF:1" #IMG:http://diyerclub.com/tv/20130826190303_channels.png #GRP:News,Aljazeera
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aljazeera
-#EXTINF:2",Aljazeera Doc #GRP:Documanteries
+#EXTINF:2" #GRP:Documanteries,Aljazeera Doc
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aljazeera_doc
-#EXTINF:3",Aljazeera Misr #GRP:News
+#EXTINF:3" #GRP:News,Aljazeera Misr
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aljazeera_misr
 #EXTINF:4",Alarabiya #GRP:News
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alarabiya
@@ -30,497 +30,490 @@ rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_ekhbaria
 #EXTINF:16",Al Moustakilla #GRP:News
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_moustakilla
 
-#EXTINF:132",MBC 1 #GRP:Drama
+#EXTINF:17",MBC 1 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_1
-#EXTINF:134",MBC 2 #GRP:Drama
+#EXTINF:18",MBC 2 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_2
-#EXTINF:136",MBC 3 #GRP:Drama
+#EXTINF:19",MBC 3 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_3
-#EXTINF:138",MBC 4 #GRP:Drama
+#EXTINF:20",MBC 4 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_4
-#EXTINF:140",MBC Action #GRP:Drama
+#EXTINF:21",MBC Action #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_action
-#EXTINF:142",MBC Bollywood #GRP:Drama
+#EXTINF:22",MBC Bollywood #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_bollywood
-#EXTINF:144",MBC Drama #GRP:Drama
+#EXTINF:23",MBC Drama #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_drama
-#EXTINF:146",MBC Masr #GRP:Drama
+#EXTINF:24",MBC Masr #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_masr
-#EXTINF:148",MBC Masr 2 #GRP:Drama
+#EXTINF:25",MBC Masr 2 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_masr_2
-#EXTINF:150",MBC Max #GRP:Drama
+#EXTINF:26",MBC Max #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mbc_max
-#EXTINF:16",Dubai #GRP:Drama
+#EXTINF:27",Dubai #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dubai
-#EXTINF:18",Dubai One #GRP:Drama
+#EXTINF:28",Dubai One #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dubai_one
-#EXTINF:20",Abu Dhabi #GRP:Drama
+#EXTINF:29",Abu Dhabi #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/abu_dhabi
-#EXTINF:118",Rotana cinema #GRP:Drama
+#EXTINF:30",Rotana cinema #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/rotana_cinema
-#EXTINF:120",Rotana Classic #GRP:Drama
+#EXTINF:31",Rotana Classic #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu #GRP:Drama=lazordy_76032503280/rotana_classic
-#EXTINF:122",Rotana Aflam #GRP:Drama
+#EXTINF:32",Rotana Aflam #GRP:Drama
 rtmp://www.teledunet.net:1935/live?i #GRP:Dramadu=lazordy_76032503280/rotana_aflam
-#EXTINF:124",Rotana Masriya #GRP:Drama
+#EXTINF:33",Rotana Masriya #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/rotana_masriya
-#EXTINF:130",Rotana Khaligi #GRP:Drama
+#EXTINF:34",Rotana Khaligi #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/rotana_khaligi
-#EXTINF:154",Art Aflam 1 #GRP:Drama
+#EXTINF:35",Art Aflam 1 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/art_aflam_1
-#EXTINF:156",Art Aflam 2 #GRP:Drama
+#EXTINF:36",Art Aflam 2 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/art_aflam_2
-#EXTINF:158",Art Cinema #GRP:Drama
+#EXTINF:37",Art Cinema #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/art_cinema
-#EXTINF:160",Art Hekayat #GRP:Drama
+#EXTINF:38",Art Hekayat #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/art_hekayat
-#EXTINF:162",Art Hekayat 2 #GRP:Drama
+#EXTINF:39",Art Hekayat 2 #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/art_hekayat_2
-#EXTINF:46",LDC #GRP:Drama
+#EXTINF:40",LDC #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ldc
-#EXTINF:224",Moga Comedy #GRP:Drama
+#EXTINF:41",Moga Comedy #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/moga_comedy
-#EXTINF:272",Cima #GRP:Drama
+#EXTINF:42",Cima #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cima
-#EXTINF:274",Toktok Aflam #GRP:Drama
+#EXTINF:43",Toktok Aflam #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/toktok_aflam
-#EXTINF:64",Cima Ali Baba #GRP:Drama
+#EXTINF:44",Cima Ali Baba #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cima_ali_baba
-#EXTINF:116",B4U Aflam #GRP:Drama
+#EXTINF:45",B4U Aflam #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/b4u_aflam
-#EXTINF:112",Zee Aflam #GRP:Drama
+#EXTINF:46",Zee Aflam #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/zee_aflam
-#EXTINF:114",Zee Alwan #GRP:Drama
+#EXTINF:47",Zee Alwan #GRP:Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/zee_alwan
 
-#EXTINF:296",Bein Sport 1 #GRP:Sports
+#EXTINF:48",Bein Sport 1 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_1
-#EXTINF:298",Bein Sport 2 #GRP:Sports
+#EXTINF:49",Bein Sport 2 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_2
-#EXTINF:300",Bein Sport 3 #GRP:Sports
+#EXTINF:50",Bein Sport 3 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_3
-#EXTINF:302",Bein Sport 4 #GRP:Sports
+#EXTINF:51",Bein Sport 4 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_4
-#EXTINF:304",Bein Sport 5 #GRP:Sports
+#EXTINF:52",Bein Sport 5 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_5
-#EXTINF:306",Bein Sport 6 #GRP:Sports
+#EXTINF:53",Bein Sport 6 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_6
-#EXTINF:308",Bein Sport 7 #GRP:Sports
+#EXTINF:54",Bein Sport 7 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_7
-#EXTINF:310",Bein Sport 8 #GRP:Sports
+#EXTINF:55",Bein Sport 8 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_8
-#EXTINF:312",Bein Sport 9 #GRP:Sports
+#EXTINF:56",Bein Sport 9 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_9
-#EXTINF:314",Bein Sport 10 #GRP:Sports
+#EXTINF:57",Bein Sport 10 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bein_sport_10
-#EXTINF:366",El Heddaf TV #GRP:Sports
+#EXTINF:58",El Heddaf TV #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/el_heddaf_tv
-#EXTINF:374",Abu Dhabi Sports 1 #GRP:Sports
+#EXTINF:59",Abu Dhabi Sports 1 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/abu_dhabi_sports_1
-#EXTINF:376",Abu Dhabi Sports 2 #GRP:Sports
+#EXTINF:60",Abu Dhabi Sports 2 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/abu_dhabi_sports_2
-#EXTINF:378",Dubai Sport 1 #GRP:Sports
+#EXTINF:61",Dubai Sport 1 #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dubai_sport_1
-#EXTINF:476",Alkass Tv #GRP:Sports
+#EXTINF:62",Alkass Tv #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alkass_tv
-#EXTINF:260",Al Ahly Tv #GRP:Sports
+#EXTINF:63",Al Ahly Tv #GRP:Sports
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_ahly_tv																									
 
-#EXTINF:126",Rotana Music #GRP:Music
+#EXTINF:64",Rotana Music #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/rotana_music
-#EXTINF:128",Rotana Clip #GRP:Music
+#EXTINF:65",Rotana Clip #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/rotana_clip
-#EXTINF:152",Wanasah #GRP:Music
+#EXTINF:66",Wanasah #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/wanasah
-#EXTINF:50",Hawacom #GRP:Music
+#EXTINF:67",Hawacom #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/hawacom
-#EXTINF:448",Aghanina #GRP:Music
+#EXTINF:68",Aghanina #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aghanina
-#EXTINF:456",Al Haneen Music #GRP:Music
+#EXTINF:69",Al Haneen Music #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_haneen_music
-#EXTINF:48",Arabica Tv #GRP:Music
+#EXTINF:70",Arabica Tv #GRP:Music
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/arabica_tv
 
-
-
-
-
-
-
-
-#EXTINF:234",CBC #GRP:Egypt
+#EXTINF:71" #GRP:Egypt,CBC 
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cbc
-#EXTINF:236",CBC 2 #GRP:Egypt
+#EXTINF:72" #GRP:Egypt,CBC 2
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cbc_2
-#EXTINF:238",CBC Drama #GRP:Egypt
+#EXTINF:73" #GRP:Egypt,CBC Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cbc_drama
-#EXTINF:240",CBC Sofra #GRP:Egypt
+#EXTINF:74" #GRP:Egypt,CBC Sofra
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cbc_sofra
-#EXTINF:286",ALHayat #GRP:Egypt
+#EXTINF:75" #GRP:Egypt,ALHayat
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alhayat
-#EXTINF:288",Alhayat 2 #GRP:Egypt
+#EXTINF:76" #GRP:Egypt,Alhayat 2 
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alhayat_2
-#EXTINF:284",ALHayat Musalsalat #GRP:Egypt
+#EXTINF:77" #GRP:Egypt,ALHayat Musalsalat 
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alhayat_musalsalat
-#EXTINF:250",Al nahar #GRP:Egypt
+#EXTINF:78" #GRP:Egypt,Al nahar
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_nahar
-#EXTINF:252",Al Nahar Drama #GRP:Egypt
+#EXTINF:79" #GRP:Egypt,Al Nahar Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_nahar_drama
-#EXTINF:254",Al Nahar Cinema #GRP:Egypt
+#EXTINF:80" #GRP:Egypt,Al Nahar Cinema
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_nahar_cinema
-#EXTINF:256",Al nahar noor #GRP:Egypt
+#EXTINF:81" #GRP:Egypt,Al nahar noor
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_nahar_noor
-#EXTINF:290",Panorama Food #GRP:Egypt
+#EXTINF:82" #GRP:Egypt,Panorama Food
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/panorama_food
-#EXTINF:292",Panorama Drama #GRP:Egypt
+#EXTINF:83" #GRP:Egypt,Panorama Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/panorama_drama
-#EXTINF:294",Panorama Drama 2 #GRP:Egypt
+#EXTINF:84" #GRP:Egypt,Panorama Drama 2
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/panorama_drama_2
-#EXTINF:216",Dream 1 #GRP:Egypt
+#EXTINF:85" #GRP:Egypt,Dream 1
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dream_1
-#EXTINF:262",Nile Comedy #GRP:Egypt
+#EXTINF:86" #GRP:Egypt,Nile Comedy
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nile_comedy
-#EXTINF:264",Nile Sport #GRP:Egypt
+#EXTINF:87" #GRP:Egypt,Nile Sport
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nile_sport
-#EXTINF:266",Nile Drama #GRP:Egypt
+#EXTINF:88" #GRP:Egypt,Nile Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nile_drama
-#EXTINF:268",Nile News #GRP:Egypt
+#EXTINF:89" #GRP:Egypt,Nile News
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nile_news
-#EXTINF:270",Nile Cinema #GRP:Egypt
+#EXTINF:90" #GRP:Egypt,Nile Cinema
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nile_cinema
-#EXTINF:214",Nile Tv #GRP:Egypt
+#EXTINF:91" #GRP:Egypt,Nile Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nile_tv
-#EXTINF:276",Al Masriyah #GRP:Egypt
+#EXTINF:92" #GRP:Egypt,Al Masriyah
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_masriyah
-#EXTINF:244",Al oula #GRP:Egypt
+#EXTINF:93" #GRP:Egypt,Al oula
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_oula
-#EXTINF:246",Al Thaniya #GRP:Egypt
+#EXTINF:94" #GRP:Egypt,Al Thaniya
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_thaniya
-#EXTINF:248",Melody Classic #GRP:Egypt
+#EXTINF:95" #GRP:Egypt,Melody Classic
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/melody_classic
-#EXTINF:488",Funoon #GRP:Egypt
+#EXTINF:96" #GRP:Egypt,Funoon
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/funoon
-#EXTINF:278",Al Kahera Wal Nas #GRP:Egypt
+#EXTINF:97" #GRP:Egypt,Al Kahera Wal Nas
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_kahera_wal_nas
-#EXTINF:280",Cairo Cinema #GRP:Egypt
+#EXTINF:98" #GRP:Egypt,Cairo Cinema
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cairo_cinema
-#EXTINF:282",Cairo Drama #GRP:Egypt
+#EXTINF:99" #GRP:Egypt,Cairo Drama
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cairo_drama
-#EXTINF:226",On TV #GRP:Egypt
+#EXTINF:100" #GRP:Egypt,On TV
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/on_tv
-#EXTINF:228",On E #GRP:Egypt
+#EXTINF:101" #GRP:Egypt,On E
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/on_e
-#EXTINF:230",On Sport #GRP:Egypt
+#EXTINF:102" #GRP:Egypt,On Sport
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/on_sport
-#EXTINF:232",Ten #GRP:Egypt
+#EXTINF:103" #GRP:Egypt,Ten
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ten
-#EXTINF:258",Sada Al Balad #GRP:Egypt
+#EXTINF:104" #GRP:Egypt,Sada Al Balad
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/sada_al_balad
-#EXTINF:242",Al Mehwar #GRP:Egypt
+#EXTINF:105" #GRP:Egypt,Al Mehwar
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_mehwar
 
-#EXTINF:23",Nat Geo Ad #GRP:Misc
+#EXTINF:106" #GRP:Misc,Nat Geo Ad
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nat_geo_ad
-#EXTINF:390",Quest Arabiya #GRP:Misc
+#EXTINF:107" #GRP:Misc,Quest Arabiya
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/quest_arabiya
-#EXTINF:66",Heya TV #GRP:Misc
+#EXTINF:108" #GRP:Misc,Heya TV
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/heya_tv
-#EXTINF:192",Al Araby Tv #GRP:Misc
+#EXTINF:109" #GRP:Misc,Al Araby Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_araby_tv
-#EXTINF:218",4Shabab #GRP:Misc
+#EXTINF:110" #GRP:Misc,4Shabab
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/4shabab
 
-#EXTINF:164",Aljazeera Children #GRP:Kids
+#EXTINF:111" #GRP:Kids,Aljazeera Children
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aljazeera_children
-#EXTINF:166",Baraem #GRP:Kids
+#EXTINF:112" #GRP:Kids,Baraem
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/baraem
-#EXTINF:168",Majd Kids #GRP:Kids
+#EXTINF:113" #GRP:Kids,Majd Kids
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/majd_kids
-#EXTINF:170",Toyor Baby #GRP:Kids
+#EXTINF:114" #GRP:Kids,Toyor Baby
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/toyor_baby
-#EXTINF:172",Toyor Al Janah #GRP:Kids
+#EXTINF:115" #GRP:Kids,Toyor Al Janah
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/toyor_al_janah
-#EXTINF:174",Spacetoon #GRP:Kids
+#EXTINF:116" #GRP:Kids,Spacetoon
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/spacetoon
-#EXTINF:178",Karameesh #GRP:Kids
+#EXTINF:117" #GRP:Kids,Karameesh
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/karameesh
-#EXTINF:180",Cartoon Network #GRP:Kids
+#EXTINF:118" #GRP:Kids,Cartoon Network
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/cartoon_network
-#EXTINF:182",Ajyal #GRP:Kids
+#EXTINF:119" #GRP:Kids,Ajyal
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ajyal
 
 																																	Religion
 
-#EXTINF:176",Taha Tv #GRP:Religion
+#EXTINF:120" #GRP:Religion,Taha Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/taha_tv
-#EXTINF:56",Aliman Tv #GRP:Religion
+#EXTINF:121" #GRP:Religion,Aliman Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aliman_tv
-#EXTINF:52",Al Sirat Tv #GRP:Religion
+#EXTINF:122" #GRP:Religion,Al Sirat Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_sirat_tv
-#EXTINF:472",Al Quran Al Karim #GRP:Religion
+#EXTINF:123" #GRP:Religion,Al Quran Al Karim
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_quran_al_karim
-#EXTINF:474",Al Resalah #GRP:Religion
+#EXTINF:124" #GRP:Religion,Al Resalah
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_resalah
-#EXTINF:478",Iqra #GRP:Religion
+#EXTINF:125" #GRP:Religion,Iqra
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/iqra
-#EXTINF:482",Al Majd #GRP:Religion
+#EXTINF:126" #GRP:Religion,Al Majd
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_majd
-#EXTINF:190",Aghapy Tv #GRP:Religion
+#EXTINF:127" #GRP:Religion,Aghapy Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aghapy_tv
-#EXTINF:222",Coptic Tv #GRP:Religion
+#EXTINF:128" #GRP:Religion,Coptic Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/coptic_tv
 
 																												lebanon
-#EXTINF:34",Lebanon Tv #GRP:Lebanon
+#EXTINF:129" #GRP:Lebanon,Lebanon Tv
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/lebanon_tv
-#EXTINF:36",LBC #GRP:Lebanon
+#EXTINF:130" #GRP:Lebanon,LBC
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/lbc
-#EXTINF:38",NBN #GRP:Lebanon
+#EXTINF:131" #GRP:Lebanon,NBN
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nbn
-#EXTINF:40",Future #GRP:Lebanon
+#EXTINF:132", #GRP:LebanonFuture
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/future
-#EXTINF:42",Aljadeed #GRP:Lebanon
+#EXTINF:133" #GRP:Lebanon,Aljadeed
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/aljadeed
-#EXTINF:44",MTV #GRP:Lebanon
+#EXTINF:134" #GRP:Lebanon,MTV
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/mtv
-#EXTINF:54",OTV Lebanon #GRP:Lebanon
+#EXTINF:135" #GRP:Lebanon,OTV Lebanon
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/otv_lebanon
 
 
 																														iraq
-#EXTINF:414",Al Ahd #GRP:Iraq
+#EXTINF:136",Al Ahd #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_ahd
-#EXTINF:416",Hona Baghdad #GRP:Iraq
+#EXTINF:137",Hona Baghdad #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/hona_baghdad
-#EXTINF:418",Al Iraqiya #GRP:Iraq
+#EXTINF:138",Al Iraqiya #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_iraqiya
-#EXTINF:420",Al ghadeer #GRP:Iraq
+#EXTINF:139",Al ghadeer #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_ghadeer
-#EXTINF:422",Afaq Tv #GRP:Iraq
+#EXTINF:140",Afaq Tv #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/afaq_tv
-#EXTINF:424",Al Forat #GRP:Iraq
+#EXTINF:141",Al Forat #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_forat
-#EXTINF:426",Alanwar #GRP:Iraq
+#EXTINF:142",Alanwar #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alanwar
-#EXTINF:428",Iraqia sport #GRP:Iraq
+#EXTINF:143",Iraqia sport #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/iraqia_sport
-#EXTINF:430",Al Mawsleya #GRP:Iraq
+#EXTINF:144",Al Mawsleya #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_mawsleya
-#EXTINF:432",Dijlah Tv #GRP:Iraq
+#EXTINF:145",Dijlah Tv #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dijlah_tv
-#EXTINF:434",Al Anbar #GRP:Iraq
+#EXTINF:146",Al Anbar #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_anbar
-#EXTINF:436",Karbala Tv #GRP:Iraq
+#EXTINF:147",Karbala Tv #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/karbala_tv
-#EXTINF:440",Al hurra Iraq #GRP:Iraq
+#EXTINF:148",Al hurra Iraq #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_hurra_iraq
-#EXTINF:442",Al Rafidain #GRP:Iraq
+#EXTINF:149",Al Rafidain #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_rafidain
-#EXTINF:444",Al Sumaria #GRP:Iraq
+#EXTINF:150",Al Sumaria #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_sumaria
-#EXTINF:446",Baghdad #GRP:Iraq
+#EXTINF:151",Baghdad #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/baghdad
-#EXTINF:450",Al Diyar #GRP:Iraq
+#EXTINF:152",Al Diyar #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_diyar
-#EXTINF:452",Ishtar #GRP:Iraq
+#EXTINF:153",Ishtar #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ishtar
-#EXTINF:454",Al rasheed #GRP:Iraq
+#EXTINF:154",Al rasheed #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_rasheed
-#EXTINF:404",Kurdsat #GRP:Iraq
+#EXTINF:155",Kurdsat #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kurdsat
-#EXTINF:406",Kurdsat News #GRP:Iraq
+#EXTINF:156",Kurdsat News #GRP:Iraq
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kurdsat_news
 
-#EXTINF:68",Palestine #GRP:Leavant
+#EXTINF:157",Palestine #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/palestine
-#EXTINF:70",Alqudis #GRP:Leavant
+#EXTINF:158",Alqudis #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alqudis
-#EXTINF:72",Al Manar #GRP:Leavant
+#EXTINF:159",Al Manar #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_manar
-#EXTINF:74",Syria #GRP:Leavant
+#EXTINF:160",Syria #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/syria
-#EXTINF:76",Syria Drama #GRP:Leavant
+#EXTINF:161",Syria Drama #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/syria_drama
-#EXTINF:78",Al Ekhbariya Al Soriya #GRP:Leavant
+#EXTINF:162",Al Ekhbariya Al Soriya #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_ekhbariya_al_soriya
-#EXTINF:32",Al mayaden #GRP:Leavant
+#EXTINF:163",Al mayaden #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_mayaden
-#EXTINF:80",Nour Sham #GRP:Leavant
+#EXTINF:164",Nour Sham #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nour_sham
-#EXTINF:392",Orient #GRP:Leavant
+#EXTINF:165",Orient #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/orient
-#EXTINF:82",ANN #GRP:Leavant
+#EXTINF:166",ANN #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ann
-#EXTINF:84",Sama Tv #GRP:Leavant
+#EXTINF:167",Sama Tv #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/sama_tv
-#EXTINF:58",Noursat #GRP:Leavant
+#EXTINF:168",Noursat #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/noursat
-#EXTINF:60",Noursat Alchabab #GRP:Leavant
+#EXTINF:169",Noursat Alchabab #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/noursat_alchabab
-#EXTINF:62",LLBN #GRP:Leavant
+#EXTINF:170",LLBN #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/llbn
-#EXTINF:408",Al Mada #GRP:Leavant
+#EXTINF:171",Al Mada #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_mada
-#EXTINF:410",Safa Tv #GRP:Leavant
+#EXTINF:172",Safa Tv #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/safa_tv
-#EXTINF:458",Roya #GRP:Leavant
+#EXTINF:173",Roya #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/roya
-#EXTINF:460",Jordan #GRP:Leavant
+#EXTINF:174",Jordan #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/jordan
-#EXTINF:462",Jordan Sport #GRP:Leavant
+#EXTINF:175",Jordan Sport #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/jordan_sport
-#EXTINF:464",Noor jordan #GRP:Leavant
+#EXTINF:176",Noor jordan #GRP:Leavant
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/noor_jordan
 
-#EXTINF:19",Noor Dubai #GRP:Gulf
+#EXTINF:177",Noor Dubai #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/noor_dubai
-#EXTINF:17",Sama Dubai #GRP:Gulf
+#EXTINF:178",Sama Dubai #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/sama_dubai
-#EXTINF:21",Abu Dhabi Drama #GRP:Gulf
+#EXTINF:179",Abu Dhabi Drama #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/abu_dhabi_drama
-#EXTINF:22",Abu Dhabi Emarat #GRP:Gulf
+#EXTINF:180",Abu Dhabi Emarat #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/abu_dhabi_emarat
-#EXTINF:466",Qatar #GRP:Gulf
+#EXTINF:181",Qatar #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/qatar
-#EXTINF:468",KSA 1 #GRP:Gulf
+#EXTINF:182",KSA 1 #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ksa_1
-#EXTINF:470",KSA 2 #GRP:Gulf
+#EXTINF:183",KSA 2 #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ksa_2
-#EXTINF:490",Oman #GRP:Gulf
+#EXTINF:184",Oman #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/oman
-#EXTINF:492",Bahrain #GRP:Gulf
+#EXTINF:185",Bahrain #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/bahrain
-#EXTINF:486",Kuwait #GRP:Gulf
+#EXTINF:186",Kuwait #GRP:Gulf
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kuwait
 
-#EXTINF:4",Tunisia national 1 #GRP:Tunisia
+#EXTINF:187",Tunisia national 1 #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tunisia_national_1
-#EXTINF:6",Tunisia national 2 #GRP:Tunisia
+#EXTINF:188",Tunisia national 2 #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tunisia_national_2
-#EXTINF:8",Nessma #GRP:Tunisia
+#EXTINF:189",Nessma #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/nessma
-#EXTINF:10",Al Tunisia #GRP:Tunisia
+#EXTINF:190",Al Tunisia #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_tunisia
-#EXTINF:12",Hanibal #GRP:Tunisia
+#EXTINF:191",Hanibal #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/hanibal
-#EXTINF:14",Attassia Tv #GRP:Tunisia
+#EXTINF:192",Attassia Tv #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/attassia_tv
-#EXTINF:18",Al janoubiya #GRP:Tunisia
+#EXTINF:193",Al janoubiya #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_janoubiya
-#EXTINF:20",Tounesna #GRP:Tunisia
+#EXTINF:194",Tounesna #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tounesna
-#EXTINF:22",Zaytoona #GRP:Tunisia
+#EXTINF:195",Zaytoona #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/zaytoona
-#EXTINF:24",Tunisia First TV #GRP:Tunisia
+#EXTINF:196",Tunisia First TV #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tunisia_first_tv
-#EXTINF:26",Zitouna Hidaya #GRP:Tunisia
+#EXTINF:197",Zitouna Hidaya #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/zitouna_hidaya
-#EXTINF:28",M Tunisia #GRP:Tunisia
+#EXTINF:198",M Tunisia #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/m_tunisia
-#EXTINF:188",Al hiwar #GRP:Tunisia
+#EXTINF:199",Al hiwar #GRP:Tunisia
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_hiwar
-#EXTINF:30",Al Magharibia #GRP:Morocco
+#EXTINF:200",Al Magharibia #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_magharibia
-#EXTINF:326",2M #GRP:Morocco
+#EXTINF:201",2M #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/2m
-#EXTINF:328",Alriadia Sport #GRP:Morocco
+#EXTINF:202",Alriadia Sport #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alriadia_sport
-#EXTINF:330",Medi 1 Sat #GRP:Morocco
+#EXTINF:203",Medi 1 Sat #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/medi_1_sat
-#EXTINF:332",Al Maghribia #GRP:Morocco
+#EXTINF:204",Al Maghribia #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_maghribia
-#EXTINF:334",Arrabia #GRP:Morocco
+#EXTINF:205",Arrabia #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/arrabia
-#EXTINF:336",Assadissa #GRP:Morocco
+#EXTINF:206",Assadissa #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/assadissa
-#EXTINF:338",Tamazight #GRP:Morocco
+#EXTINF:207",Tamazight #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tamazight
-#EXTINF:340",AlGeria #GRP:Algeria
+#EXTINF:208",AlGeria #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/algeria
-#EXTINF:342",Echorouk Benna Tv #GRP:Algeria
+#EXTINF:209",Echorouk Benna Tv #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/echorouk_benna_tv
-#EXTINF:344",Echorouk News #GRP:Algeria
+#EXTINF:210",Echorouk News #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/echorouk_news
-#EXTINF:346",Echorouk Tv #GRP:Algeria
+#EXTINF:211",Echorouk Tv #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/echorouk_tv
-#EXTINF:348",Hogar #GRP:Algeria
+#EXTINF:212",Hogar #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/hogar
-#EXTINF:350",Dzair Tv #GRP:Algeria
+#EXTINF:213",Dzair Tv #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dzair_tv
-#EXTINF:352",Tamazight Algeria #GRP:Algeria
+#EXTINF:214",Tamazight Algeria #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tamazight_algeria
-#EXTINF:354",Coran #GRP:Algeria
+#EXTINF:215",Coran #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/coran
-#EXTINF:356",Algeria 3 #GRP:Algeria
+#EXTINF:216",Algeria 3 #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/algeria_3
-#EXTINF:358",Ennahar Tv #GRP:Algeria
+#EXTINF:217",Ennahar Tv #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ennahar_tv
-#EXTINF:360",Samira Tv #GRP:Algeria
+#EXTINF:218",Samira Tv #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/samira_tv
-#EXTINF:362",EL DJAZAIRIA #GRP:Algeria
+#EXTINF:219",EL DJAZAIRIA #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/el_djazairia
-#EXTINF:364",Dzair News #GRP:Algeria
+#EXTINF:220",Dzair News #GRP:Algeria
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/dzair_news
-#EXTINF:484",Libya Tv #GRP:Libya
+#EXTINF:221",Libya Tv #GRP:Libya
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/libya_tv
-#EXTINF:316",Blue Nile #GRP:Sudan
+#EXTINF:222",Blue Nile #GRP:Sudan
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/blue_nile
-#EXTINF:318",Sudan Tv #GRP:Sudan
+#EXTINF:223",Sudan Tv #GRP:Sudan
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/sudan_tv
-#EXTINF:320",Tayba #GRP:Sudan
+#EXTINF:224",Tayba #GRP:Sudan
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tayba
-#EXTINF:322",Alkhartoum #GRP:Sudan
+#EXTINF:225",Alkhartoum #GRP:Sudan
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/alkhartoum
-#EXTINF:324",Al Aoula Maroc #GRP:Morocco
+#EXTINF:226",Al Aoula Maroc #GRP:Morocco
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/al_aoula_maroc
-#EXTINF:494",ETV #GRP:Africa
+#EXTINF:227",ETV #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/etv
-#EXTINF:496",EBC Ethiopia #GRP:Africa
+#EXTINF:228",EBC Ethiopia #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/ebc_ethiopia
-#EXTINF:498",Oromia Tv #GRP:Africa
+#EXTINF:229",Oromia Tv #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/oromia_tv
-#EXTINF:500",Tchad #GRP:Africa
+#EXTINF:230",Tchad #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tchad
-#EXTINF:502",Eriteria Tv #GRP:Africa
+#EXTINF:231",Eriteria Tv #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/eriteria_tv
-#EXTINF:504",ESTV #GRP:Africa
+#EXTINF:232",ESTV #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/estv
-#EXTINF:506",SNTV #GRP:Africa
+#EXTINF:233",SNTV #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/sntv
-#EXTINF:508",Kalsan Tv #GRP:Africa
+#EXTINF:234",Kalsan Tv #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/kalsan_tv
-#EXTINF:510",Somali Land #GRP:Africa
+#EXTINF:235",Somali Land #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/somali_land
-#EXTINF:512",Somali cable Tv #GRP:Africa
+#EXTINF:236",Somali cable Tv #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/somali_cable_tv
-#EXTINF:514",Universal Somali Tv #GRP:Africa
+#EXTINF:237",Universal Somali Tv #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/universal_somali_tv
-#EXTINF:516",Horn Cable Tv #GRP:Africa
+#EXTINF:238",Horn Cable Tv #GRP:Africa
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/horn_cable_tv
 
-#EXTINF:86",FM Tv #GRP:France
+#EXTINF:239",FM Tv #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/fm_tv
-#EXTINF:88",TF1 #GRP:France
+#EXTINF:240",TF1 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/tf1
-#EXTINF:90",M6 #GRP:France
+#EXTINF:241",M6 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/m6
-#EXTINF:92",France 2 #GRP:France
+#EXTINF:242",France 2 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/france_2
-#EXTINF:94",France 3 #GRP:France
+#EXTINF:243",France 3 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/france_3
-#EXTINF:96",France 4 #GRP:France
+#EXTINF:244",France 4 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/france_4
-#EXTINF:98",France 5 #GRP:France
+#EXTINF:245",France 5 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/france_5
-#EXTINF:100",France O #GRP:France
+#EXTINF:246",France O #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/france_o
-#EXTINF:102",Gulli #GRP:France
+#EXTINF:247",Gulli #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/gulli
-#EXTINF:104",I Tele #GRP:France
+#EXTINF:248",I Tele #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/i_tele
-#EXTINF:106",W9 #GRP:France
+#EXTINF:249",W9 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/w9
-#EXTINF:108",D8 #GRP:France
+#EXTINF:250",D8 #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/d8
-#EXTINF:110",ARTE #GRP:France
+#EXTINF:251",ARTE #GRP:France
 rtmp://www.teledunet.net:1935/live?idu=lazordy_76032503280/arte
