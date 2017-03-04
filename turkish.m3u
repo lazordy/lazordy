@@ -1,29 +1,21 @@
 #EXTM3U
-#EXTINF:4,20
-http://vod.ashams.com/new/2249/hotam_20_462909.mp4
-
-
-#EXTINF:4,23
-http://flv2.alarab.com:8080/new/iphone/109024.mp4
-#EXTINF:4,24
-http://flv2.alarab.com:8080/new/iphone/109055.mp4
-#EXTINF:4,25
-http://flv2.alarab.com:8080/new/iphone/109100.mp4
-#EXTINF:4,26
-http://flv2.alarab.com:8080/new/iphone/109140.mp4
-#EXTINF:4,27
-http://flv2.alarab.com:8080/new/iphone/109167.mp4
-#EXTINF:4,28
-http://flv2.alarab.com:8080/new/iphone/109169.mp4
-
-#EXTINF:4,20
-http://flv2.alarab.com:8080/new/iphone/108948.mp4
-
 #EXTINF:4,21
-http://flv2.alarab.com:8080/new/iphone/108949.mp4
+http://vod.ashams.com/new/2249/YYYY_3_-_YYYYYY_21_449530.mp4
 
-#EXTINF:4,22
-http://flv2.alarab.com:8080/new/iphone/108982.mp4
+
+
+#EXTINF:4,29
+http://flv2.alarab.com:8080/new/iphone/109190.mp4
+
+#EXTINF:4,30
+http://vod2.sonara.net/hd3/hawaalroo73d/hawa_30.mp4
+
+#EXTINF:4,31
+http://vod2.sonara.net/hd3/hawaalroo73d/hawa_31.mp4
+
+
+
+
 
 
 
@@ -79,3 +71,6 @@ http://vod.ashams.com/new/206894/jousor_13_464409.mp4
 
 #EXTINF:4,14 جسور و الجميلة
 http://vod.ashams.com/new/206894/jousour_14_127534.mp4
+
+#EXTINF:4,15 جسور و الجميلة
+http://video.bokracdn.com/s9/12/55/125543.mp4
